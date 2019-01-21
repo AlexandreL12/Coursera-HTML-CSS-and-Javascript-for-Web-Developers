@@ -1,2 +1,2 @@
-# Coursera_HTML-CSS-JS_Module_2
-HTML, CSS, and Javascript for Web Developers - Module 2
+# Coursera-HTML-CSS-and-Javascript-for-Web-Developers
+Course submissions and code for HTML, CSS and Javascript for Web Developers
